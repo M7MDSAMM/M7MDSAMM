@@ -33,4 +33,4 @@ Technology evolves, and so do I. I stay at the forefront of industry trends, reg
 
 Let's connect and explore opportunities to collaborate on exciting projects. Whether you're looking to enhance an existing application or embark on a new development journey, I'm ready to contribute my expertise and passion for creating exceptional web experiences.
 
-📧 moh.sam.dev@gmail.com | 🌐 https://m7md-sam.com/en
+📧 moh.sam.dev@gmail.com | 🌐 https://m7md-sam.com/en | https://www.linkedin.com/in/mohammad-sammour-8b0397217/
