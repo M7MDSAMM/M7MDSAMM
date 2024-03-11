@@ -14,29 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Backend PHP Laravel Developer Specialized In developing and fixing ecommerce , online stores , CRM systems and online banking systems .
+Greetings! 👋 I'm Mohammed Sammour , a seasoned Laravel developer with a proven track record of crafting innovative and efficient web applications since 2021. I thrive on turning conceptual ideas into reality, ensuring that every line of code I write contributes to a seamless user experience.
 
-With more than 5 years of experience working with PayMyy - Kuwait , Jadwa - KSA , VisionPlus - Dubai and universal clients in designing and implementing database schemas using Laravel's ORM (Object-Relational Mapping), Integrating third-party APIs and services into web applications and Implementing security measures to protect web applications from potential vulnerabilities.
+🔧 Technical Expertise:
+In my journey as a Laravel developer, I've honed my skills in building scalable and maintainable web applications. Proficient in the Laravel framework, I bring a deep understanding of PHP, MVC architecture, and RESTful APIs. My expertise extends to crafting elegant solutions for complex business requirements, always prioritizing code quality and performance.
 
-Furthermore , I posses a comprehesive set of skills , starting with Developing and maintaining web applications using the Laravel framework , Collaborating with cross-functional teams to define, design, and ship new features, and identifying and resolving software defects and usability issues.
+💼 Professional Experience:
+Having collaborated with diverse teams in both local and remote settings, I've had the privilege of working with various companies. This experience has not only enriched my technical proficiency but also sharpened my ability to adapt and thrive in dynamic work environments.
 
-in PHP Laravel development, I am a motivated, skilled, and experienced developer. Proficiency in developing web applications based on the Laravel framework and PHP. Strong problem-solving skills and ability to work independently or as part of a team.
+🌐 Remote Work Enthusiast:
+Embracing the digital era, I am well-versed in remote collaboration tools and methodologies. Remote work isn't just a necessity for me; it's a passion. I believe in the power of distributed teams to bring together diverse perspectives and drive innovation.
 
-In order to exceed client expectations, I pay close attention to client needs and pay close attention to details. Flexibility in the Deadline is allowed as long as the quality is not compromised.
+🚀 What Drives Me:
+I am fueled by a relentless desire to create web solutions that not only meet but exceed expectations. Whether it's optimizing performance, enhancing user interfaces, or implementing robust security measures, I am committed to delivering excellence in every project I undertake.
 
-My Backyard:
-⭐⭐⭐⭐ Writing clean, efficient, and secure code
-⭐⭐⭐⭐ Troubleshooting issues to ensure optimal application performance
-⭐⭐⭐⭐ Providing technical guidance and support to junior developers
-⭐⭐⭐⭐ Performing unit testing and automated testing to ensure code quality
-⭐⭐⭐⭐ Perfect understanding of agile development methodologies
+📈 Continuous Learning Advocate:
+Technology evolves, and so do I. I stay at the forefront of industry trends, regularly updating my skills to incorporate the latest advancements. This commitment to lifelong learning ensures that the solutions I build are always cutting-edge and future-proof.
 
-Professional Tools:
-? AWS (Amazon Webn web services )
-? GIT and Github
-?Google Analysis
-?Stripe and Paypal Payments Methods Integration
-?Agile Methodolgy
-?Firebase Api Configration
+Let's connect and explore opportunities to collaborate on exciting projects. Whether you're looking to enhance an existing application or embark on a new development journey, I'm ready to contribute my expertise and passion for creating exceptional web experiences.
 
-With my extensive experience, dedication to delivering high-quality results, and ability to adapt to new technologies and challenges, I am well-equipped to contribute effectively to the success of any project or organization.
+📧 moh.sam.dev@gmail.com | 🌐 https://m7md-sam.com/en
