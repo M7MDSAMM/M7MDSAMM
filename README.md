@@ -12,7 +12,7 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/mohammad-sammour"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/mohammad-sammour-8b0397217/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="mailto:mohd.sammour42@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
 <img src="https://img.shields.io/badge/Germany-black?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiI+PHRleHQgeT0iMTAiIGZvbnQtc2l6ZT0iMTIiPvCfh6nwn4eqPC90ZXh0Pjwvc3ZnPg==" />&nbsp;
 <img src="https://komarev.com/ghpvc/?username=M7MDSAMM&style=flat-square&color=58A6FF&label=Views" />
@@ -47,7 +47,7 @@ Reduced production bugs by **25%** through automated testing, improved performan
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M7MDSAMM&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF&include_all_commits=true&count_private=true" width="100%" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=M7MDSAMM&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=M7MDSAMM&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="100%" />
 </div>
 
 </td>
@@ -195,16 +195,6 @@ Each service owns its database, handles its own migrations, and deploys independ
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-<h2 align="center">Activity</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M7MDSAMM&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9&area=true&area_color=58A6FF&hide_border=true" width="95%" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M7MDSAMM&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=6" width="38%" />
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-
 <div align="center">
 
 ```
@@ -212,7 +202,7 @@ Open to backend engineering roles in Germany & remote.
 Let's build something that matters.
 ```
 
-<a href="https://linkedin.com/in/mohammad-sammour"><img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mohammad-sammour-8b0397217/"><img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="mailto:mohd.sammour42@gmail.com"><img src="https://img.shields.io/badge/Reach_Out-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
