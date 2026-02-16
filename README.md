@@ -182,33 +182,6 @@ Each service owns its database, handles its own migrations, and deploys independ
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-<!-- GITHUB STATS — generated via GitHub Actions, stored in repo -->
-<h2 align="center">GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/M7MDSAMM/M7MDSAMM/stats-output/profile-summary-card-output/github_dark/0-profile-details.svg" width="95%" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/M7MDSAMM/M7MDSAMM/stats-output/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="47%" />
-  <img src="https://raw.githubusercontent.com/M7MDSAMM/M7MDSAMM/stats-output/profile-summary-card-output/github_dark/3-stats.svg" width="47%" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/M7MDSAMM/M7MDSAMM/stats-output/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="47%" />
-  <img src="https://raw.githubusercontent.com/M7MDSAMM/M7MDSAMM/stats-output/profile-summary-card-output/github_dark/4-productive-time.svg" width="47%" />
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-
-<h2 align="center">Contribution Snake</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M7MDSAMM/M7MDSAMM/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M7MDSAMM/M7MDSAMM/output/github-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/M7MDSAMM/M7MDSAMM/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-
 <div align="center">
 
 ```
