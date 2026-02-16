@@ -21,10 +21,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
 ### `> whoami`
 
 ```
@@ -35,24 +31,15 @@ Mohammad Sammour
 └── Philosophy: Build systems that scale
 ```
 
+<div align="left">
+
 I don't build features. **I architect systems.**
 
 Deep expertise in **Laravel** and **backend-first engineering** — I design services that are decoupled, testable, and production-ready from day one.
 
 Reduced production bugs by **25%** through automated testing, improved performance by **40%** via Redis caching & query optimization, and built microservices that process workloads asynchronously at scale.
 
-</td>
-<td width="45%" valign="top">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M7MDSAMM&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF&include_all_commits=true&count_private=true" width="100%" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=M7MDSAMM&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="100%" />
 </div>
-
-</td>
-</tr>
-</table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
