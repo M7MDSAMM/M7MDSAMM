@@ -190,7 +190,7 @@ Let's build something that matters.
 ```
 
 <a href="https://www.linkedin.com/in/mohammad-sammour-8b0397217/"><img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="mailto:mohd.sammour42@gmail.com"><img src="https://img.shields.io/badge/Reach_Out-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:moh.sam.dev@gmail.com"><img src="https://img.shields.io/badge/Reach_Out-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
